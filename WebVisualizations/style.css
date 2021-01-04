@@ -1,0 +1,43 @@
+a.navbar-brand{
+  margin-left: 12px;
+  padding: 12px;
+  background-color:rgb(24, 23, 23);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 30px;
+}
+
+h3{
+  color: rgb(10, 48, 35);
+  background-color: gray;
+  font-size: 30px;
+}
+
+body{
+  background-color: rgba(39, 43, 43, 0.925);
+}
+
+p{
+ color:rgba(255, 255, 255, 0.822);
+ font-size: large;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.col-md-4{
+  background-color: darkgray;
+}
+.col-lg-6{
+  background-color: gray;
+}
+
+.col-md-8{
+  background-color: rgb(233, 227, 227);
+}
+
+.col-md-12{
+  background-color: gray;
+}
+
+.img-thumbnail{
+  border: solid black;
+  margin-right: 5px;
+}
